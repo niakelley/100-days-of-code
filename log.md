@@ -6,7 +6,7 @@
 1. Worked on FreeAcademy coursework and stored the code for a NYFW fashion blog page. 
 2. Set up my dev enviroment - notepad++, github desktop, dracula dark theme.
 
-**Thoughts:** I'm trying to figure out the ultimate goal regarding my personal progress. Ultimately, I want to progress to becoming a full-stack developer. I am trying to refresh my dev skills. I would rather have a project description and work towards them independantly, as opposed to being taken them step-by-step. 
+**Thoughts:** Trying to make my desktop respository public. 
 
 **Link to work:** codeacademy/index.html
 
