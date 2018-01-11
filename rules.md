@@ -11,8 +11,8 @@ January 10, 2018
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
-
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md)) 
+6. I'm trying to figure out the ultimate goal regarding my personal progress. Ultimately, I want to progress to becoming a full-stack developer. I am trying to refresh my dev skills. I would rather have a project description and work towards them, as opposed to being taken them step-by-step. I know the coursework will get increasingly more difficult.
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
