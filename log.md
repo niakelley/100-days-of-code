@@ -16,7 +16,7 @@ Step 4: Once test app worked, deleted the test app
 
 **Thoughts**: Looking forward to tomorrow.
 
-**Link(s) to work**: N/A
+**Link(s) to work**: Also created a new Twitter account, specifically to track web development and my 100 day challenge
 
 ### Day 1: 11 Jan 2018
 
