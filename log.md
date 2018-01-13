@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 2: 12 Jan 2018
+
+**Today's Progress**: 
+My AWS account was fully enabled today. So, my objective was to enable my cloud-based IDE for Rails development, per the Coder-Manual guidelines. I was able to complete the IDE setup and ran a test rails application and server.
+Step 0: On AWS as a root user, I used AWS Identity and Access Management (IAM) to control access to your AWS account:
+      -> Created 2 new groups (users, admins) for AWS Cloud9
+      -> Created 1 new user id and 1 new admin id
+      -> Assigned users to their respective groups. 
+      -> Add AWS Cloud9 Access Permissions to each Group
+Step 1: Sign in to the AWS Cloud9 Console using the newly created user id
+Step 2: Checked rails and ruby versions via the IDE
+Step 3: Built a test rails app 
+Step 4: Once test app worked, deleted the test app
+
+**Thoughts**: Lookin forward to tomorrow.
+
+**Link(s) to work**: N/A
+
 ### Day 1: 11 Jan 2018
 
 **Today's Progress**: 
