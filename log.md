@@ -14,7 +14,7 @@ Step 2: Checked rails and ruby versions via the IDE
 Step 3: Built a test rails app 
 Step 4: Once test app worked, deleted the test app
 
-**Thoughts**: Lookin forward to tomorrow.
+**Thoughts**: Looking forward to tomorrow.
 
 **Link(s) to work**: N/A
 
